@@ -18,3 +18,5 @@ This project replicates the official Netflix homepage UI, including the navbar, 
 - HTML5
 - CSS3 (Flexbox, Grid, Media Queries)
 - No JavaScript or frameworks used
+
+Created by - Sachin Kushwaha
